@@ -75,7 +75,7 @@ const Recommendations = () => {
     if (page >= 1 && page <= totalPages) {
       setCurrentPage(page)
       if (componentRef.current) {
-        componentRef.current.scrollIntoView({ behavior: 'smooth' }) 
+        componentRef.current.scrollIntoView({top:0, behavior: 'smooth' }) 
       }
     }
   }
@@ -134,7 +134,7 @@ const Recommendations = () => {
           <button
             onClick={() => handlePageChange(currentPage - 1)}
             disabled={currentPage === 1}
-            className={`px-3 py-1 rounded ${
+            className={`px-3 py-1 rounded cursor-pointer ${
               currentPage === 1
                 ? 'bg-gray-200 text-gray-400'
                 : 'bg-white border border-gray-300 text-gray-700 hover:bg-gray-50'
@@ -153,7 +153,7 @@ const Recommendations = () => {
               <button
                 key={page}
                 onClick={() => handlePageChange(page)}
-                className={`px-3 py-1 rounded ${
+                className={`px-3 py-1 rounded cursor-pointer ${
                   currentPage === page
                     ? 'bg-blue-500 text-white'
                     : 'bg-white border border-gray-300 text-gray-700 hover:bg-gray-50'
@@ -166,7 +166,7 @@ const Recommendations = () => {
           <button
             onClick={() => handlePageChange(currentPage + 1)}
             disabled={currentPage === totalPages}
-            className={`px-3 py-1 rounded ${
+            className={`px-3 py-1 rounded cursor-pointer ${
               currentPage === totalPages
                 ? 'bg-gray-200 text-gray-400'
                 : 'bg-white border border-gray-300 text-gray-700 hover:bg-gray-50'

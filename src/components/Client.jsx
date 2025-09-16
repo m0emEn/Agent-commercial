@@ -42,6 +42,7 @@ const Client = ({ rec }) => {
       job:rec.TYPE_PERSONNE === "MORALE" ? rec.LIB_SECTEUR_ACTIVITE
         : rec.LIB_PROFESSION,
       type:rec.TYPE_PERSONNE,
+      etaFam:rec.SITUATION_FAMILIALE,
       recommended_products: rec.LIB_PRODUIT,
     };
     const generated = await generatePitch(data);

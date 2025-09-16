@@ -1,0 +1,109 @@
+﻿LIB_BRANCHE,LIB_SOUS_BRANCHE,LIB_PRODUIT,Profils cibles
+VIE,DECES,TEMPORAIRE DECES ,Emprunteurs; chefs de famille; personnes souhaitant protéger leurs proches
+VIE,DECES,ASSURANCE DECES VIE ENTIERE,Adultes; familles; personnes prévoyantes
+VIE,DECES,TEMPORAIRE DECES A CAPITAL DECROISSANT LINEAIREMENT,Emprunteurs; personnes ayant un crédit immobilier ou à la consommation
+VIE,DECES,ASSURANCE HOMME CLEF,Entreprises; dirigeants; PME dépendant d’un salarié clé
+VIE,VIE,ASSURANCE MIXTE VIE,Adultes; familles; épargnants cherchant épargne et protection décès
+VIE,CAPITALISATION,ASSURANCE VIE COMPLEMENT RETRAITE - HORIZON ,Salariés publics et privés; professions libérales; travailleurs indépendants préparant leur retraite
+VIE,CAPITALISATION,RENTE EDUCATION,Parents; tuteurs qui financent les études d’un enfant
+VIE,BANCASSURANCE,DHAMEN,Clients bancaires BH; emprunteurs; particuliers en quête de protection financière
+VIE,BANCASSURANCE,DHAMEN RETRAITE,Clients bancaires BH; salariés et indépendants préparant leur retraite
+VIE,BANCASSURANCE,CREDIT STOCK,Commerçants; entreprises détenant des stocks financés par crédit
+VIE,BANCASSURANCE,ASSUR SENIOR,Seniors; retraités; personnes âgées
+VIE,BANCASSURANCE,CARTES BANCAIRES,Titulaire de cartes bancaires BH; voyageurs
+RISQUES DIVERS,VOL,VOL AVEC EFFRACTION MOBILIER D HABITATION,Propriétaires occupants; locataires; familles
+RISQUES DIVERS,VOL,VOL AVEC EFFRACTION DES MARCHANDISES DE TOUTE NATURE,Commerçants; entreprises possédant des marchandises; entrepôts
+RISQUES DIVERS,VOL,VOL DES RISQUES ACCESSOIRES,Propriétaires et commerçants recherchant garantie complémentaire
+RISQUES DIVERS,VOL,"VOL CONTENU DES COFFRES-FORTS DANS LES BANQUS,BUREAUX ET MAGASINS",Banques; bureaux; magasins disposant de coffres-forts
+RISQUES DIVERS,VOL,VOL SUR LA PERSONNE ET PERTE PAR CAS DE FORCE MAJEURE,Transporteurs de fonds; caissiers; salariés manipulant des espèces
+RISQUES DIVERS,VOL,DETOURNEMENT DES ESPECES MONNAEES ET VALEURS PAR LE PERSONNEL,Entreprises; commerçants souhaitant se couvrir contre la malversation du personnel
+RISQUES DIVERS,VOL,VOL TOUTE CATEGORIES,Particuliers et professionnels recherchant couverture globale contre le vol
+RISQUES DIVERS,BRIS DE GLACE,BRIS DE GLACE,Commerçants; vitrines; habitations avec baies vitrées
+RISQUES DIVERS,DEGATS DES EAUX,DEGATS DES EAUX,Propriétaires et locataires de logements; syndic d’immeuble
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C MEDECIN,Médecins libéraux; cabinets médicaux
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C PARAMEDICALE,Infirmiers; sages-femmes; auxiliaires médicaux
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C PHARMACIEN,Pharmaciens; officines
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C PROFESSION CULINAIRE,Restaurants; chefs; traiteurs
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C STATION DE SERVICE,Stations-service; gérants de stations
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C CHEF DE FAMILLE DETENTEUR D UN ANIMAL DOMESTIQUE,Chefs de famille possédant un animal domestique
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C GARDERIE ET JARDIN D ENFANTS,Garderies; jardins d’enfants
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C COLONIES DE VACANCES,Organisateurs de colonies de vacances; centres de vacances
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C  ETABLISSEMENT  EDUCATION PHYSIQUE ET SPORTIVES,Clubs de sport; salles de sport; écoles d’éducation physique
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C  ETABLISSEMENT ENSEIGNEMENT (PRIVE /PUBLIC),Établissements scolaires publics et privés
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C CHASSE TERRESTRE ,Chasseurs; associations de chasse
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C BAIN MAURE - DOUCHE,Bains maures; hammams; centres de bains publics
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C EMBARCATION DE PLAISANCE,Propriétaires de bateaux de plaisance; yachts
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C PROMONEUR EN CALECHE OU SUR MONTURE,Propriétaires de calèches; exploitants de promenades à cheval
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C & INDIVIDUELLE COMPLEMENTAIRE  PECHE ET PLONGE SOUS MARINE,Pêcheurs et plongeurs sous-marins amateurs
+RISQUES DIVERS,RESPONSABILITE CIVILE,RC CHASSEUR,Chasseurs; associations de chasse
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C PARTICULIER-CHEF DE FAMILLE- MAITRE DE MAISON,Chefs de famille; propriétaires de résidence principale
+RISQUES DIVERS,RESPONSABILITE CIVILE,R.C PROPRIETAIRE D IMMEUBLE,Propriétaires d’immeubles locatifs; syndics
+RISQUES DIVERS,RESPONSABILITE CIVILE,RC ENTREPRISE DE BATIMENT ET TRAVAUX PUBLIC,Entreprises de bâtiment et travaux publics
+RISQUES DIVERS,RESPONSABILITE CIVILE,RC ARTISANTS ET COMMERCANTS,Artisans; commerçants; petites entreprises
+RISQUES DIVERS,RESPONSABILITE CIVILE,RC HOTELIERS,Hôteliers; aubergistes
+RISQUES DIVERS,RESPONSABILITE CIVILE,RC COIFFEUR,Coiffeurs; salons de beauté
+RISQUES DIVERS,RESPONSABILITE CIVILE,"RC EXPLOITATION DE THEATRE,CINEMA,SALLES DE CONCERTS, DE CONFEREN?CES ET DE SPECTACLES","Gestionnaires de théâtres, cinémas, salles de spectacles et de conférences"
+RISQUES DIVERS,RESPONSABILITE CIVILE,RC EXPLOITATION ATTRACTION FORAINES,Exploitants d’attractions foraines; fêtes foraines
+RISQUES DIVERS,RESPONSABILITE CIVILE,RC EXPLOITATION PARKING PAYANT POUR AUTOMOBILES,Exploitants de parkings payants
+RISQUES DIVERS,RESPONSABILITE CIVILE,RC  AGRICULTURES,Agriculteurs; exploitants agricoles
+RISQUES DIVERS,RESPONSABILITE CIVILE,RC ASSOCIATION SPORTIVES,Clubs et associations sportives
+RISQUES DIVERS,RESPONSABILITE CIVILE,RC ENTRPRISES INDUSTRIELLES,Entreprises industrielles; usines
+RISQUES DIVERS,RESPONSABILITE CIVILE,RESPONSABILITE CIVILE,Particuliers; familles; entreprises cherchant une couverture générale
+RISQUES DIVERS,INDIVIDUELLE ACCIDENTS,INDIVIDUELLE ACCIDENTS,Particuliers; familles; personnes souhaitant se couvrir contre les accidents corporels
+RISQUES DIVERS,INDIVIDUELLE ACCIDENTS,INDIVIDUELLE ACCIDENTS ASSOCIE AU CONTRAT AUTO,Conducteurs souhaitant compléter leur assurance auto par une protection personnelle
+RISQUES DIVERS,ASSISTANCE EN VOYAGES,ASSISTANCES EN VOYAGES - PLAN BASIQUE,Voyageurs occasionnels; touristes
+RISQUES DIVERS,ASSISTANCE EN VOYAGES,ASSISTANCES EN VOYAGES - PLAN BUSINESS,Voyageurs d’affaires
+RISQUES DIVERS,ASSISTANCE EN VOYAGES,ASSISTANCES EN VOYAGES - PLAN GOLDEN,Voyageurs fréquents; touristes recherchant une couverture étendue
+RISQUES DIVERS,ASSISTANCE EN VOYAGES,ASSISTANCES EN VOYAGES - PLAN ETUDIANT,Étudiants en voyage à l’étranger
+RISQUES DIVERS,ASSISTANCE EN VOYAGES,ASSISTANCES EN VOYAGES - PLAN ETUDIANT+,Étudiants souhaitant une couverture renforcée
+RISQUES DIVERS,ASSISTANCE DOMICILIAIRE,ASSISTANCE DOMICILIAIRE,Occupants de logements; familles recherchant assistance à domicile
+RISQUES DIVERS,ASSISTANCE DES CARTES BANCAIRES,CARTES BANCAIRES,Titulaire de cartes bancaires BH; voyageurs
+RISQUES DIVERS,ASSISTANCE DES VEHICULES,ASSISTANCE DES VEHICULES,Conducteurs; propriétaires de véhicules souhaitant assistance routière
+RISQUES DIVERS,ASSISTANCE JURIDIQUE,ASSISTANCE PROTECTION JURIDIQUE,Particuliers; professionnels souhaitant une protection juridique
+AUTOMOBILE,AUTOMOBILE,PACK BASIC,Propriétaires de véhicules recherchant une couverture de base
+AUTOMOBILE,AUTOMOBILE,PACK BASIC+,Propriétaires de véhicules recherchant une couverture de base améliorée
+AUTOMOBILE,AUTOMOBILE,PACK DOMMAGE ET COLLISION,Propriétaires de véhicules souhaitant couvrir les dommages et collisions
+AUTOMOBILE,AUTOMOBILE,PACK TOUS RISQUES SANS FRANCHISE ,Propriétaires de véhicules recherchant une couverture tous risques sans franchise
+AUTOMOBILE,AUTOMOBILE,PACK TOUS RISQUES AVEC FRANCHISE ,Propriétaires de véhicules recherchant une couverture tous risques avec franchise
+AUTOMOBILE,AUTOMOBILE,AUTOMOBILE ASSURANCE FRONTIERE TEMPORAIRE,Conducteurs voyageant à l’étranger; automobilistes franchissant les frontières
+ENGINEERING,TOUS RISQUES CHANTIER,TOUS RISQUES CHANTIER,Maîtres d’ouvrage; entreprises de construction
+ENGINEERING,TOUS RISQUES MONTAGE,TOUS RISQUES MONTAGE,Entreprises installant des machines ou équipements
+ENGINEERING,RESPONSABILITE DECENNALE,RESPONSABILITE DECENNALE,Maîtres d’ouvrage; promoteurs immobiliers; entreprises de construction
+ENGINEERING,BRIS DE MACHINES,BRIS DE MACHINES,Industries; entreprises utilisant des machines
+ENGINEERING,ENGINS DE CHANTIERS,ENGINS DE CHANTIERS,Entrepreneurs; sociétés de construction possédant des engins
+ENGINEERING,MULTIRIQUES INFORMATIQUES,MULTIRISQUES INFORMATIQUES,Entreprises possédant du matériel informatique; sociétés informatiques
+TRANSPORT,TRANSPORT FACULTE TERRESTRE,POLICE AU VOYAGE(FACULTE TERRESTRE),Entreprises expédiant des marchandises par route; importateurs/exportateurs
+TRANSPORT,TRANSPORT FACULTE TERRESTRE,POLICE ABONNEMENT(FACULTE TERRESTRE),Entreprises expédiant des marchandises par route; importateurs/exportateurs
+TRANSPORT,TRANSPORT FACULTE TERRESTRE,POLICE A ALIMENTER(FACULTE TERRESTRE),Entreprises expédiant des marchandises par route; importateurs/exportateurs
+TRANSPORT,TRANSPORT FACULTE MARITIME,POLICE AU VOYAGE(FACULTE MARITIME),Entreprises expédiant des marchandises par mer; importateurs/exportateurs
+TRANSPORT,TRANSPORT FACULTE MARITIME,POLICE ABONNEMENT(FACULTE MARITIME),Entreprises expédiant des marchandises par mer; importateurs/exportateurs
+TRANSPORT,TRANSPORT FACULTE MARITIME,POLICE A ALIMENTER(FACULTE MARITIME),Entreprises expédiant des marchandises par mer; importateurs/exportateurs
+TRANSPORT,TRANSPORT FACULTE AERIEN,POLICE AU VOYAGE(FACULTE AERIEN),Entreprises expédiant des marchandises par avion; importateurs/exportateurs
+TRANSPORT,TRANSPORT FACULTE AERIEN,POLICE ABONNEMENT(FACULTE AERIEN),Entreprises expédiant des marchandises par avion; importateurs/exportateurs
+TRANSPORT,TRANSPORT FACULTE AERIEN,POLICE A ALIMENTER(FACULTE AERIEN),Entreprises expédiant des marchandises par avion; importateurs/exportateurs
+TRANSPORT,TRANSPORT CORPS DE PLAISANCE,POLICE AU VOYAGE(CORPS DE PLAISANCE),Propriétaires de bateaux de plaisance; plaisanciers
+TRANSPORT,TRANSPORT CORPS DE PLAISANCE,POLICE ABONNEMENT(CORPS DE PLAISANCE),Propriétaires de bateaux de plaisance; plaisanciers
+TRANSPORT,TRANSPORT CORPS DE PLAISANCE,POLICE A ALIMENTER(CORPS DE PLAISANCE),Propriétaires de bateaux de plaisance; plaisanciers
+TRANSPORT,TRANSPORT CORPS DE PECHE,POLICE AU VOYAGE(CORPS DE PECHE),Armateurs; pêcheurs; entreprises de pêche
+TRANSPORT,TRANSPORT CORPS DE PECHE,POLICE ABONNEMENT(CORPS DE PECHE),Armateurs; pêcheurs; entreprises de pêche
+TRANSPORT,TRANSPORT CORPS DE PECHE,POLICE A ALIMENTER(CORPS DE PECHE),Armateurs; pêcheurs; entreprises de pêche
+TRANSPORT,TRANSPORT CORPS DE TOUT NAVIRES,POLICE AU VOYAGE(CORPS DE TOUT NAVIRES),Armateurs de navires commerciaux; compagnies maritimes
+TRANSPORT,TRANSPORT CORPS DE TOUT NAVIRES,POLICE ABONNEMENT(CORPS DE TOUT NAVIRES),Armateurs de navires commerciaux; compagnies maritimes
+TRANSPORT,TRANSPORT CORPS DE TOUT NAVIRES,POLICE A ALIMENTER(CORPS DE TOUT NAVIRES),Armateurs de navires commerciaux; compagnies maritimes
+TRANSPORT,TRANSPORT CORPS DE CONSTRUCTION NAVAL,POLICE AU VOYAGE(CORPS DE CONSTRUCTION NAVAL),Chantiers navals; constructeurs de navires
+TRANSPORT,TRANSPORT CORPS DE CONSTRUCTION NAVAL,POLICE ABONNEMENT(CORPS DE CONSTRUCTION NAVAL),Chantiers navals; constructeurs de navires
+TRANSPORT,TRANSPORT CORPS DE CONSTRUCTION NAVAL,POLICE A ALIMENTER(CORPS DE CONSTRUCTION NAVAL),Chantiers navals; constructeurs de navires
+TRANSPORT,TRANSPORT CORPS AVIATION,TRANSPORT CORPS AVIATION,Propriétaires d’aéronefs; exploitants d’aviation d’affaires ou de loisirs
+INCENDIE,INCENDIE RISQUES SIMPLE,INCENDIE RISQUES SIMPLE CENTRALISE,Structures disposant de plusieurs sites ou activités centralisées
+INCENDIE,INCENDIE RISQUES SIMPLE,INCENDIE RISQUES SIMPLE,Petites entreprises; commerçants; propriétaires de bâtiments modestes
+INCENDIE,INCENDIE RISQUES INDUSTRIEL,INCENDIE RISQUES INDUSTRIEL,Industries; usines; sites industriels
+INCENDIE,MULTIRISQUES PROFESSIONNELLES,MULTIRISQUES PROFESSIONNELLES CENTRALISE,Entreprises; commerces centralisés; ateliers divers
+INCENDIE,MULTIRISQUES PROFESSIONNELLES,MULTIRISQUE HOTELIER,Hôtels; maisons d’hôtes
+INCENDIE,MULTIRISQUES PROFESSIONNELLES,MULTIRISQUES PROFESSIONNELLES,Entreprises; commerces; ateliers; professions libérales
+INCENDIE,MULTIRISQUES HABITATIONS,MULTIRISQUES HABITATIONS OCCUPANT,Propriétaires occupants; locataires
+INCENDIE,MULTIRISQUES HABITATIONS,MULTIRISQUES HABITATIONS NON OCCUPANT,Propriétaires non occupants; bailleurs
+INCENDIE,PERTES D EXPLOITATIONS APRES INCENDIE,PERTES D EXPLOITATION APRES  INCENDIE,Entreprises souhaitant couvrir leur perte de bénéfices après un sinistre
+INCENDIE,INCENDIE RISQUES AGRICOLES,INCENDIE RISQUES AGRICOLES,Exploitations agricoles; agriculteurs
+INCENDIE,INCENDIE AUTRES,INCENDIE AUTRES,Divers établissements non classés; propriétaires variés
+INCENDIE,INCENDIE LOGEMENT,INCENDIE LOGEMENTS,Locataires et propriétaires de logements; ménages
+GROUPE-MALADIE,MALADIE,SANTE ET PREVOYANCE,Employeurs; groupes professionnels assurant la santé de leurs membres

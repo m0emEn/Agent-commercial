@@ -27,7 +27,7 @@ const Modal = ({ isOpen, onClose, client, generatedPitch }) => {
       setIsAnimating(true)
       setEmailMessage(generatedPitch || "")
       setRecipientEmail(client?.email || "")
-      setEmailSubject(`Insurance Opportunity - ${client?.NOM_PRENOM || 'Client'}`)
+      setEmailSubject(`Solutions personnalisées pour sécuriser votre avenir avec BH Assurance`)
     } else {
       setIsAnimating(false)
     }
@@ -45,11 +45,12 @@ const Modal = ({ isOpen, onClose, client, generatedPitch }) => {
       const templateParams = {
         to_email: recipientEmail,
         to_name: client?.NOM_PRENOM || 'Client',
-        from_name: 'BH Assurance Agent', // Replace with actual agent name
-        from_email: 'agent@bhassurance.com', // Replace with actual agent email
+        from_name: 'BH Assurance Agent', 
+        from_email: 'agent@bhassurance.com', 
         subject: emailSubject,
         message: emailMessage,
         client_id: client?.clientId || '',
+        
         // Add any other template variables you need
       }
 
@@ -248,12 +249,12 @@ const Modal = ({ isOpen, onClose, client, generatedPitch }) => {
               <div className="bg-gray-50 rounded-lg p-4">
                 <p className="text-sm text-gray-600 mb-2">Preview message:</p>
                 <div className="bg-white rounded-lg p-3 border-l-4 border-green-400">
-                  <p className="text-gray-800">Hello {client?.NOM_PRENOM}, I hope you're doing well! 👋</p>
+                  <p className="text-gray-800">Cher {client?.NOM_PRENOM}, {emailMessage}</p>
                 </div>
               </div>
 
               <a
-                href={`https://wa.me/${client?.clientPhone?.replace(/\D/g, '')}?text=${encodeURIComponent(`Hello ${client?.NOM_PRENOM}, I hope you're doing well!`)}`}
+                href={`https://wa.me/${client?.clientPhone?.replace(/\D/g, '')}?text=${encodeURIComponent(`Cher client ,${emailMessage}`)}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full text-center px-6 py-4 bg-gradient-to-r from-green-500 to-green-600 text-white rounded-lg hover:from-green-600 hover:to-green-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 font-medium"
